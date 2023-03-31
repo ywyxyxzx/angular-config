@@ -9,7 +9,6 @@
     "test": "ng test",
     "build-stats": "ng build --stats-json",
     "bundle-report": "webpack-bundle-analyzer dist/stats.json"
-
   },
   "private": true,
   "dependencies": {
